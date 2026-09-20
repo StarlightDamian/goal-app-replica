@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="340" viewBox="0 0 1120 340" role="img" aria-labelledby="title desc">
+  <title id="title">Goal App Replica workflow</title>
+  <desc id="desc">Discover the authorized scope, build a first pass, compare paired evidence, correct root causes, and verify. Failed verification returns to correction. Persistent state spans the workflow.</desc>
+  <defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0L7 3.5L0 7" fill="none" stroke="#608f88" stroke-width="1.5"/></marker></defs>
+  <rect width="1120" height="340" rx="20" fill="#102c30"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="40" y="47" fill="#eaf3eb" font-size="23" font-weight="700">Observe broadly. Build together. Verify with evidence.</text>
+    <text x="40" y="76" fill="#a5c3bc" font-size="15">Authorized scope · Reference read-only by default · Explicit asset rights</text>
+    <g fill="#1b3e42" stroke="#547d77"><rect x="40" y="113" width="184" height="90" rx="10"/><rect x="254" y="113" width="184" height="90" rx="10"/><rect x="468" y="113" width="184" height="90" rx="10"/><rect x="682" y="113" width="184" height="90" rx="10"/><rect x="896" y="113" width="184" height="90" rx="10"/></g>
+    <g fill="#eaf3eb" font-size="20" font-weight="700" text-anchor="middle"><text x="132" y="148">Discover</text><text x="346" y="148">Build</text><text x="560" y="148">Compare</text><text x="774" y="148">Correct</text><text x="988" y="148">Verify</text></g>
+    <g fill="#b8d1c9" font-size="14" text-anchor="middle"><text x="132" y="176">Full authorized scope</text><text x="346" y="176">First pass across scope</text><text x="560" y="176">Paired evidence</text><text x="774" y="176">Shared root causes</text><text x="988" y="176">Acceptance criteria</text></g>
+    <g fill="none" stroke="#608f88" stroke-width="2" marker-end="url(#arrow)"><path d="M229 158H247"/><path d="M443 158H461"/><path d="M657 158H675"/><path d="M871 158H889"/><path d="M988 209V240H774V211"/></g>
+    <text x="883" y="265" text-anchor="middle" fill="#b8d1c9" font-size="13">Unresolved gaps → next correction wave</text>
+    <path d="M40 286H1080" stroke="#547d77"/>
+    <text x="40" y="315" fill="#d4e8bc" font-size="16">Persistent state</text><text x="200" y="315" fill="#a5c3bc" font-size="15">Identity · Scenarios · Tasks · Evidence · Gaps · Checkpoints</text>
+  </g>
+</svg>

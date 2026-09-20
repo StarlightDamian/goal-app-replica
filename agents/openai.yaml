@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goal App Replica"
+  short_description: "授权应用复刻：先覆盖、再首轮开发、后批量比对与修正"
+  default_prompt: "使用 $goal-app-replica 启动或恢复复刻 Goal。围绕可观察产品契约推进：先批量探索并落盘证据，再完成全范围第一轮开发，之后统一成对比对、按跨页面根因修正并独立验收。模型自主选择工具与实现方式，但不得越过授权、数据、资产、安全和证据边界。"
